@@ -58,6 +58,25 @@ header{
 .top {
     margin-bottom: 65vh;
 }
+.top2 {
+    margin-bottom: 51vh;
+}
+.top3 {
+    margin-bottom: 60vh;
+}
+.top4 {
+    margin-bottom: 50vh;
+}
+.top5 {
+    margin-bottom: 46vh;
+}
+.top6 {
+    margin-bottom: 16vh;
+}
+.top7 {
+    margin-bottom: 16vh;
+}
+
 
 .container-2,
 .container {
@@ -91,6 +110,8 @@ header{
     cursor: pointer;
 
 }
+
+
 
 .leftText-1-left {
     display: flex;
@@ -149,7 +170,6 @@ header{
     visibility: visible;
     pointer-events: visible;
     opacity: 1;
-    height: 65vh;
 }
 
 .arrow {
@@ -223,6 +243,10 @@ header{
     transition: 0.2s ease;
 }
 
+.leftText-2-head:hover{
+    color: white;
+}
+
 /* 3 */
 
 .leftText-3-main {
@@ -288,6 +312,28 @@ header{
 .arrow-3 {
     transform: rotate(180deg);
     transition: 0.2s ease;
+}
+
+.leftText-3-head:hover{
+    color: white;
+}
+.leftText-4-head:hover{
+    color: white;
+}
+.leftText-5-head:hover{
+    color: white;
+}
+.leftText-6-head:hover{
+    color: white;
+}
+.leftText-7-head:hover{
+    color: white;
+}
+.leftText-8-head:hover{
+    color: white;
+}
+.leftText-9-head:hover{
+    color: white;
 }
 
 /* 4 */
